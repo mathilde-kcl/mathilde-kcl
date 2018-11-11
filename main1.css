@@ -1,0 +1,32 @@
+.card{
+	color: black;
+	opacity: 0.7;
+	font-family: 'Lobster', cursive;
+}
+.card2{
+	background-color: #e8eef5;
+}
+
+.somebox {
+	width: 30%;
+	background-color: pink;
+}
+.footer-middle{
+	margin: auto;
+}
+body{
+	background-color: white;
+	background-image: url("https://assets.awwwards.com/awards/images/2011/07/gif-cinematic03.gif");
+background-repeat: no-repeat;
+	background-size: cover;
+}
+.card-body{
+	text-align: center;
+}
+.somebox{
+	width:50%;
+	text-align: center;
+}
+.icon-large {
+	font-size: 32px;
+}
