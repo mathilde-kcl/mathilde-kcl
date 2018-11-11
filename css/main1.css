@@ -1,0 +1,25 @@
+.card{
+	background-color: rgba(8, 112, 224, 0.17);
+	font-family: 'Lobster', cursive;
+}
+.card2{
+	background-color: #e8eef5;
+}
+
+.somebox {
+	width: 30%;
+	background-color: pink;
+}
+.footer-middle{
+	margin: auto;
+}
+.body{
+	background-color: beige;
+}
+.card-body{
+	text-align: center;
+}
+.somebox{
+	width:50%;
+	text-align: center;
+}
